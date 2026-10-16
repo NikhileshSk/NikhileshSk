@@ -1,32 +1,113 @@
-# 💫 About Me:
-🔭 I’m currently working on a  website to showcase my projects in web development .<br>👯 I’m looking to collaborate on exciting projects related to web development .<br>🤝 I’m looking for help with enhancing my skills in ME(R)N.<br>💬 Ask me about web development and project collaboration.<br>⚡ Fun fact: I enjoy exploring new technologies and their applications in real-world scenarios.
+# Hey there, I'm Nikhilesh SK 👋
 
+### Software Developer | Full-Stack Engineer | AI Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhl.esh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhileshsk369) 
+I'm a Software Developer at **Webotix IT Consultancies**, building scalable web applications and contributing to enterprise-level fintech products. I enjoy turning complex problems into practical software solutions through clean code, thoughtful architecture, and modern technologies.
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NikhileshSk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikhileshSk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhileshSk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NikhileshSk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NikhileshSk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 💼 Currently working on enterprise fintech applications and full-stack products.
+- 🚀 Building AI-powered applications and SaaS platforms.
+- 💻 Experienced in developing responsive frontends, backend services, REST APIs, and database-driven applications.
+- 🤖 Exploring AI integration, automation, and intelligent application workflows.
+- 🌱 Continuously improving my skills in software architecture, system design, and scalable application development.
+- 🤝 Open to collaborating on impactful projects involving web development, AI, and SaaS.
+- ⚡ I enjoy exploring new technologies and applying them to real-world problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NikhileshSk&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
 
-<!---
-NikhileshSk/NikhileshSk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhileshsk369)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikhl.esh_)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhileshSk)
+
+---
+
+## 💻 Tech Stack
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases & Backend Services
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Payments, Tools & Platforms
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects & Work
+
+### 🏦 Enterprise Fintech Applications
+Contributing to large-scale fintech products with a focus on full-stack development, maintainable architecture, reliable APIs, and production-ready functionality.
+
+### 🤖 SwiftCheck AI
+Working on AI-powered product development, exploring intelligent workflows and practical AI integration into web applications.
+
+### ☁️ SaaS Applications
+Building subscription-based applications using Next.js, Firebase, and Stripe, with features such as authentication, subscription payments, and subscription lifecycle management.
+
+### 🔍 JobSpy Alerts
+Developing a multi-tenant SaaS platform designed to discover and deliver relevant job postings through Telegram, with a focus on automation and job deduplication.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhileshSk&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhileshSk&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NikhileshSk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikhileshSk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+</p>
+
+---
+
+## 💡 What I'm Interested In
+
+- Scalable full-stack application architecture
+- AI-powered products and intelligent automation
+- SaaS development and subscription billing
+- REST API design and backend engineering
+- Database design and performance optimization
+- Cloud deployment and production reliability
+
+---
+
+<p align="center">
+  <i>"Build useful things, keep learning, and make every line of code count."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NikhileshSk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
